@@ -2,6 +2,8 @@
 
 **🎮 Um jogo clássico de quebra-cabeça deslizante (15-puzzle) desenvolvido em HTML, CSS e JavaScript puro.**  
 
+![Preview do Jogo](img/Resultado-Puzzle.png)
+
 ## **📝 Descrição**  
 Este projeto é uma implementação do famoso **jogo de puzzle deslizante**, onde o objetivo é reorganizar as peças numeradas (1 a 15) em ordem crescente, movendo-as para o espaço vazio. O jogo inclui:  
 
